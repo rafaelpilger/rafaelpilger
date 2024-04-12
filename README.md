@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=400000&height=120&section=header"/>
 
 ## Faala dev, Rafael Aqui!!!!
 
