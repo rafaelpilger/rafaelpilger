@@ -24,7 +24,7 @@
 
 ![snake gif](https://github.com/rafaelpilger/rafaelpilger/blob/output/github-contribution-grid-snake-dark.svg)
 
- 
+ <img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=400000&height=120&section=footer"/>
 
 
 
