@@ -31,4 +31,4 @@
 <a href="https://www.linkedin.com/in/rafael-pilger-b96027299/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/rafaelpilger/rafaelpilger/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/rafaelpilger/rafaelpilger/blob/output/github-contribution-black-snake.gif)
